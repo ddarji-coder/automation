@@ -3,8 +3,8 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RestTest.TMSSandboxTest">
-      </class> <!-- RestTest.TMSSandboxTest -->
+      <class name="RestTest.TMSandboxTest">
+      </class>
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> 
+</suite> 
